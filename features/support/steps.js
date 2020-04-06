@@ -7,12 +7,13 @@ const {
   setDefaultTimeout,
 } = require("cucumber");
 const puppeteer = require("puppeteer");
-const { expect } = require("chai");
+const { should } = require("chai");
 
 let page;
 let browser;
 
 setDefaultTimeout(50 * 1000);
+should();
 
 BeforeAll(async () => {
   browser = process.env.GITHUB_ACTIONS
@@ -38,10 +39,11 @@ Given("Navigate to the sandbox", async () => {
 
 When("I am on the sandbox page", async () => {
   await page.waitFor("h1");
-  expect(await page.title()).to.equal("Sandbox");
+  const title = await page.title();
+  title.should.eql("Sandbox");
 });
 
 Then("The page header should be {string}", async (header) => {
   const title = await page.$eval("h1", (el) => el.textContent);
-  expect(title).to.equal(header);
+  title.should.eql(header);
 });
