@@ -1,0 +1,32 @@
+| No  | Date           | Build                                                                                                                                                                  |
+| :-- | :------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 154 | 29/03/20 16:16 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-expect/actions/runs/66007972) |
+| 148 | 28/03/20 23:31 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-expect/actions/runs/65617341) |
+| 151 | 29/03/20 07:16 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-expect/actions/runs/65783403) |
+| 145 | 28/03/20 19:15 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-expect/actions/runs/65521222) |
+| 149 | 29/03/20 00:27 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-expect/actions/runs/65637063) |
+| 146 | 28/03/20 20:05 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-expect/actions/runs/65533119) |
+| 144 | 28/03/20 18:42 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-expect/actions/runs/65506653) |
+| 147 | 28/03/20 20:13 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-expect/actions/runs/65544954) |
+| 143 | 28/03/20 15:54 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-expect/actions/runs/65439880) |
+| 152 | 29/03/20 07:19 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-expect/actions/runs/65784337) |
+| 158 | 29/03/20 21:46 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-expect/actions/runs/66143443) |
+| 153 | 29/03/20 07:26 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-expect/actions/runs/65786204) |
+| 155 | 29/03/20 16:54 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-expect/actions/runs/66020262) |
+| 150 | 29/03/20 01:50 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-expect/actions/runs/65663160) |
+| 160 | 30/03/20 21:13 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-expect/actions/runs/66995508) |
+| 156 | 29/03/20 19:23 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-expect/actions/runs/66081802) |
+| 165 | 02/04/20 21:32 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-expect/actions/runs/69506434) |
+| 168 | 02/04/20 23:42 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-expect/actions/runs/69561469) |
+| 166 | 02/04/20 22:22 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-expect/actions/runs/69530154) |
+| 164 | 01/04/20 23:25 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-expect/actions/runs/68743223) |
+| 170 | 03/04/20 00:13 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-expect/actions/runs/69575007) |
+| 169 | 02/04/20 23:53 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-expect/actions/runs/69563343) |
+| 167 | 02/04/20 23:25 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-expect/actions/runs/69556654) |
+| 171 | 03/04/20 21:23 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-expect/actions/runs/70302344) |
+| 172 | 03/04/20 21:30 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-expect/actions/runs/70303903) |
+| 157 | 29/03/20 21:36 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-expect/actions/runs/66140749) |
+| 162 | 31/03/20 00:42 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-expect/actions/runs/67094413) |
+| 159 | 29/03/20 22:44 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-expect/actions/runs/66166733) |
+| 163 | 01/04/20 00:42 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-expect/actions/runs/67948577) |
+| 161 | 30/03/20 21:19 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-expect/actions/runs/66995886) |
