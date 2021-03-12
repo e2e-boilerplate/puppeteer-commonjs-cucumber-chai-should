@@ -4,7 +4,7 @@
     "url": "https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-should/issues"
   },
   "dependencies": {
-    "chai": "4.3.3",
+    "chai": "4.3.4",
     "cucumber": "6.0.5",
     "puppeteer": "5.5.0"
   },
